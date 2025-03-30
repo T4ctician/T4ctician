@@ -6,7 +6,7 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=T4ctician&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-# 💻 Tech Stack:
+# 💻 Tech Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
