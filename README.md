@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Kenny</h1>
 
 - 👨🏻‍💻 IT Support sharing about my journey and learnings in cloud and tech
-- 👨🏻‍🎓 Studied Computer Science at Murdoch University, Australia
+- 👨🏻‍🎓 Studied Computer Science at Murdoch University, Australia/Singapore
 - ☁️ Currently learning **AWS, Azure and GCP Cloud services**
 
   ![](https://github-readme-stats.vercel.app/api?username=T4ctician&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
